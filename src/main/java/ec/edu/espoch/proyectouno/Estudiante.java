@@ -11,21 +11,21 @@ package ec.edu.espoch.proyectouno;
 public class Estudiante {
     
     //Atributos
-    public String nombreCurso;
-    public int codigo;
-    public String listaEstudiante;
+    public String nombre;
+    public int identificacion;
+    public double promedio;
     
     //metodos
-    public void agregarEstudiante(){
+    public void inscribirseCurso(){
         
     }
     
-    public void eliminarEstudiante(){
+    public void retirarseCurso(){
     
     
     }
     
-    public void mostrarEstudiante(){
+    public void mostrarInformacion(){
     
     
     }

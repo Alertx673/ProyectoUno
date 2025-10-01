@@ -13,7 +13,7 @@ public class Curso {
     //Atributos
     public String nombreCurso;
     public int codigo;
-    public String listaEstudiante;
+    public Estudiante [] estudiantesIncritos;
     
     //metodos
     public void agregarEstudiante(){
